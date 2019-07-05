@@ -1,0 +1,9 @@
+/Users/virtualemployee/Downloads/Xamarin-Forms-master/DrumPad2/DrumPad/DrumPad/bin/Debug/netstandard2.0/DrumPad.deps.json
+/Users/virtualemployee/Downloads/Xamarin-Forms-master/DrumPad2/DrumPad/DrumPad/bin/Debug/netstandard2.0/DrumPad.dll
+/Users/virtualemployee/Downloads/Xamarin-Forms-master/DrumPad2/DrumPad/DrumPad/bin/Debug/netstandard2.0/DrumPad.pdb
+/Users/virtualemployee/Downloads/Xamarin-Forms-master/DrumPad2/DrumPad/DrumPad/obj/Debug/netstandard2.0/DrumPad.csprojAssemblyReference.cache
+/Users/virtualemployee/Downloads/Xamarin-Forms-master/DrumPad2/DrumPad/DrumPad/obj/Debug/netstandard2.0/DrumPad.csproj.CoreCompileInputs.cache
+/Users/virtualemployee/Downloads/Xamarin-Forms-master/DrumPad2/DrumPad/DrumPad/obj/Debug/netstandard2.0/DrumPad.AssemblyInfoInputs.cache
+/Users/virtualemployee/Downloads/Xamarin-Forms-master/DrumPad2/DrumPad/DrumPad/obj/Debug/netstandard2.0/DrumPad.AssemblyInfo.cs
+/Users/virtualemployee/Downloads/Xamarin-Forms-master/DrumPad2/DrumPad/DrumPad/obj/Debug/netstandard2.0/DrumPad.dll
+/Users/virtualemployee/Downloads/Xamarin-Forms-master/DrumPad2/DrumPad/DrumPad/obj/Debug/netstandard2.0/DrumPad.pdb
